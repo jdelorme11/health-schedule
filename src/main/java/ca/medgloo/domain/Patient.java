@@ -5,4 +5,6 @@ public class Patient {
 	private String firstName;
 	private String lastName;
 	private String email;
+	
+	public Patient() {};
 }
